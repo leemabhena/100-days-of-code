@@ -1,0 +1,44 @@
+country,x,y
+South Africa,5.0,-217.0
+Namibia,-37.0,-139.0
+Botswana,3.0,-162.0
+Zimbabwe,40.0,-137.0
+Madagascar,151.0,-148.0
+Mozambique,101.0,-115.0
+Zambia,26.0,-107.0
+Angola,-34.0,-101.0
+Tanzania,81.0,-56.0
+DRC,4.0,-32.0
+Gabon,-67.0,-24.0
+Kenya,94.0,-15.0
+Somalia,143.0,-0.0
+Ethiopia,101.0,36.0
+South Sudan,37.0,32.0
+Sudan,47.0,92.0
+Egypt,45.0,144.0
+Chad,-20.0,82.0
+Libya,-29.0,148.0
+Tunisia,-64.0,196.0
+Algeria,-117.0,157.0
+Morocco,-161.0,181.0
+Western Sahara,-206.0,142.0
+Mauritania,-207.0,108.0
+Mali,-147.0,98.0
+Niger,-87.0,93.0
+Nigeria,-91.0,50.0
+Ghana,-141.0,33.0
+Burkina Faso,-144.0,64.0
+Guinea,-204.0,48.0
+Senegal,-222.0,76.0
+Ivory Coast,-168.0,31.0
+Cameroon,-56.0,13.0
+Congo,-35.0,-16.0
+Uganda,70.0,-2.0
+Malawi,60.0,-80.0
+Lesotho,43.0,-203.0
+Swaziland,61.0,-184.0
+Central African Republic,-12.0,24.0
+Tunisia,-64.0,201.0
+Sierra Leone,-214.0,36.0
+Liberia,-193.0,19.0
+Senegal,-230.0,77.0
